@@ -1,3 +1,7 @@
+The project can be cloned from git.
+Use Webstorm to build and run the app.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
